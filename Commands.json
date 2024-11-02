@@ -1,0 +1,353 @@
+{
+    "Shhet1": [
+        {
+            "Command Type": "Pose",
+            "Command": "kbalance",
+            "Command Definition": "stand up neutral",
+            "Sample Sentence": "Hey buddy can you stand in your natural stance?"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "kbuttUp",
+            "Command Definition": "butt up",
+            "Sample Sentence": "Come on buddy lift your hips a little."
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "kcalib",
+            "Command Definition": "calibration pose",
+            "Sample Sentence": "Come on let's calibrate you."
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "kdropped",
+            "Command Definition": "dropped by back legs",
+            "Sample Sentence": "Can you drop your back legs?"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "klifted",
+            "Command Definition": "lifted by neck",
+            "Sample Sentence": "Lift them up from the neck and let's see"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "klnd",
+            "Command Definition": "landing pose",
+            "Sample Sentence": "Let's go to landing pose now"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "krest",
+            "Command Definition": "rest",
+            "Sample Sentence": "Come on we are very tired now it's time to rest"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "ksit",
+            "Command Definition": "sit",
+            "Sample Sentence": "Hey calm down let's sit down now"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "kstr",
+            "Command Definition": "stretch",
+            "Sample Sentence": "Let's stretch the muscles a little"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "kup",
+            "Command Definition": "stand up neutral",
+            "Sample Sentence": "Come on get up and let's see"
+        },
+        {
+            "Command Type": "Pose",
+            "Command": "kzero",
+            "Command Definition": "all joint at 0 degrees",
+            "Sample Sentence": "Now let's pull all the joints to zero degrees"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kbdF",
+            "Command Definition": "bound forward",
+            "Sample Sentence": "Jump forward let's see"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kbk",
+            "Command Definition": "backward",
+            "Sample Sentence": "Go back buddy"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kbkL",
+            "Command Definition": "backward Left",
+            "Sample Sentence": "Go back to the left"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kcrF",
+            "Command Definition": "crawl Forward",
+            "Sample Sentence": "How we used to crawl when we were in the army let's do it like that crawl forward"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kcrL",
+            "Command Definition": "crawl Left",
+            "Sample Sentence": "Enemy is in ambush let's crawl to the left"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kgpF",
+            "Command Definition": "gap Forward",
+            "Sample Sentence": "Forward gap move"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kgpL",
+            "Command Definition": "gap Left",
+            "Sample Sentence": "Left gap move"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "khlw",
+            "Command Definition": "halloween gait",
+            "Sample Sentence": "How we used to walk on Halloween"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kjpF",
+            "Command Definition": "jump Forward",
+            "Sample Sentence": "Now it's time to jump. Jump buddy."
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kphF",
+            "Command Definition": "push Forward",
+            "Sample Sentence": "Push yourself forward"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kphL",
+            "Command Definition": "push Left",
+            "Sample Sentence": "Now push yourself to the left"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "ktrF",
+            "Command Definition": "trot Forward",
+            "Sample Sentence": "Run forward buddy come on now"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "ktrL",
+            "Command Definition": "trot Left",
+            "Sample Sentence": "Run to the left"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kvtF",
+            "Command Definition": "step at origin",
+            "Sample Sentence": "Take a step"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kvtL",
+            "Command Definition": "spin left",
+            "Sample Sentence": "Turn to the left buddy"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kwkF",
+            "Command Definition": "walk Forward",
+            "Sample Sentence": "Walk forward"
+        },
+        {
+            "Command Type": "Walking",
+            "Command": "kwkL",
+            "Command Definition": "walk Left",
+            "Sample Sentence": "Walk to the left"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kang",
+            "Command Definition": "angry",
+            "Sample Sentence": "Come on buddy thieves are coming scare them get angry."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kbf",
+            "Command Definition": "backflip",
+            "Sample Sentence": "Hey buddy it's show time we expect a backflip from you"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kbx",
+            "Command Definition": "boxing",
+            "Sample Sentence": "Hey now we're going into the ring it's boxing time"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kchr",
+            "Command Definition": "cheers",
+            "Sample Sentence": "Yeah I think we deserve applause too"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kck",
+            "Command Definition": "check",
+            "Sample Sentence": "I heard a voice check the place"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kcmh",
+            "Command Definition": "come here",
+            "Sample Sentence": "Come here"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kdg",
+            "Command Definition": "dig",
+            "Sample Sentence": "Hide the bone my friend dig"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kff",
+            "Command Definition": "front flip",
+            "Sample Sentence": "I think there's an obstacle in front of you if you do a backflip you can pass"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kfiv",
+            "Command Definition": "high five",
+            "Sample Sentence": "You're awesome bro. High five"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kgdb",
+            "Command Definition": "good boy",
+            "Sample Sentence": "Well done my friend."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "khds",
+            "Command Definition": "handstand",
+            "Sample Sentence": "You're pretty good at gymnastics. Can you do a handstand?"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "khg",
+            "Command Definition": "hug",
+            "Sample Sentence": "Come on let's hug you"
+        },
+     
+        {
+            "Command Type": "Behavior",
+            "Command": "khsk",
+            "Command Definition": "hand shake",
+            "Sample Sentence": "Look my friend you're going to do your show today okay?"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "khu",
+            "Command Definition": "hands up",
+            "Sample Sentence": "Hey buddy that was my favorite ball. I know you took it. Hands up."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kjmp",
+            "Command Definition": "jump",
+            "Sample Sentence": "Jump buddy. Jump like a kangaroo."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kkc",
+            "Command Definition": "kick",
+            "Sample Sentence": "I know you're trained in karate. Kick me."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "klpov",
+            "Command Definition": "leap over",
+            "Sample Sentence": "Jump over it."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kmw",
+            "Command Definition": "moon walk",
+            "Sample Sentence": "Look my friend Michael Jackson is playing. Let's do a moonwalk."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "knd",
+            "Command Definition": "nod",
+            "Sample Sentence": "Shake your hand like a rockstar"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kpd",
+            "Command Definition": "play dead",
+            "Sample Sentence": "There is a danger. Play dead."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kpee",
+            "Command Definition": "pee",
+            "Sample Sentence": "No my friend you can't pee here."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kpu",
+            "Command Definition": "push ups",
+            "Sample Sentence": "You're grounded for peeing here, do some push-ups quickly."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kpu1",
+            "Command Definition": "push ups with on hand",
+            "Sample Sentence": "Now do some one-handed push-ups"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "krc",
+            "Command Definition": "recover",
+            "Sample Sentence": "You turned upside down, fix yourself."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "krl",
+            "Command Definition": "roll",
+            "Sample Sentence": "Let's roll a little."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kscrh",
+            "Command Definition": "scratch",
+            "Sample Sentence": "Hey buddy, there are a lot of flies, I'm itchy, what's going on with you?"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "ksnf",
+            "Command Definition": "sniff",
+            "Sample Sentence": "Hey buddy, do you smell the same thing I smell?"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "ktbl",
+            "Command Definition": "be table",
+            "Sample Sentence": "Oh man, I wish I had a table"
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kts",
+            "Command Definition": "test",
+            "Sample Sentence": "Now we're testing."
+        },
+        {
+            "Command Type": "Behavior",
+            "Command": "kwh",
+            "Command Definition": "wave head",
+            "Sample Sentence": "Come on buddy, let's shake our heads"
+        }
+    ]
+}
